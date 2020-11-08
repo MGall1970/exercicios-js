@@ -19,7 +19,7 @@ classificaAluno(100)
 classificaAluno(30)
 classificaAluno(38)
 classificaAluno(88)
-classificaAluno(61)
+classificaAluno(37)
 
 
 
